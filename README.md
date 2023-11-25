@@ -18,7 +18,8 @@
 ## Development experiences
 - Android app development
 - Web development
-- Database development (MySQL)
+- Database development
+  - MySQL
 - SCRUM framework
   - Jira 
 
