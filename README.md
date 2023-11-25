@@ -1,16 +1,33 @@
-### Hi there 👋
+## Languages
+- Java
+- PHP
+- C
+- C++
+- C#
+- Python
+- Assembly (Vaguely)
+- R
+- Lua
+- SQL
+- HTML & CSS
 
-<!--
-**SawaXV/SawaXV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Design
+- Figma
+- Android Studio
 
-Here are some ideas to get you started:
+## Development experiences
+- Android app development
+- Web development
+- Database development (MySQL)
+- SCRUM framework
+  - Jira 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other
+- LazyCube project
+  - Group project in second academic year - Awarded £900 for achieving second place
+  - Objective was to design an app that could scan and solve a Rubik's cube seamlessly
+  - App could scan a Rubik's cube using Tensorflow Lite Object Detection Model and solved it via our logic in Java
+  - Mainly contributed to app development, design and logic
+- Knowledge of Git and Linux
+- Technical documentation and UML
+- Understanding of networks
