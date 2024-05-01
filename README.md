@@ -5,7 +5,6 @@
 - C++
 - C#
 - Python
-- Assembly (Vaguely)
 - R
 - Lua
 - SQL
