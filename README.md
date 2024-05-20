@@ -1,6 +1,4 @@
-# Technical Portfolio
-
-## Languages
+## Languages/Systems
 - Java
 - PHP
 - C
@@ -9,8 +7,10 @@
 - Python
 - R
 - Lua
-- SQL
+- MySQL
 - HTML & CSS
+- Unix
+- Git
 
 ## Design
 - Figma
@@ -20,7 +20,6 @@
 - Android app development
 - Web development
 - Database development
-  - MySQL
 - SCRUM framework
   - Jira 
 - LazyCube project (2023)
