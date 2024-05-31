@@ -21,7 +21,8 @@
 - Web development
 - Database development
 - SCRUM framework
-  - Jira 
+  - Jira
+- GitLab
 - LazyCube project (2023)
   - Group project in second academic year - Achieved second place
   - Objective was to design an app that could scan and solve a Rubik's cube seamlessly
