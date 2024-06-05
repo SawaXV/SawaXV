@@ -11,6 +11,8 @@
 - HTML & CSS
 - Unix
 - Git
+- GitLab
+- VirtualBox
 
 ## Design
 - Figma
