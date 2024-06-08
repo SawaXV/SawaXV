@@ -9,6 +9,7 @@
 - Lua
 - MySQL
 - HTML & CSS
+- JavaScript
 - Unix
 - Git
 - GitLab
