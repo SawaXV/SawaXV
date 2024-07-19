@@ -14,6 +14,7 @@
 - Git
 - GitLab
 - VirtualBox
+- Unity
 
 ## Design
 - Figma
@@ -23,6 +24,7 @@
 - Android app development
 - Web development
 - Database development
+- Game development
 - SCRUM framework
   - Jira
 - GitLab
