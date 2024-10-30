@@ -1,5 +1,7 @@
 ## Languages/Systems
 - Java
+- JavaFX
+- JUnit
 - PHP
 - C
 - C++
@@ -8,6 +10,7 @@
 - R
 - Lua
 - MySQL
+- SQLite
 - HTML & CSS
 - JavaScript
 - Unix
