@@ -15,6 +15,7 @@
 - GitLab
 - VirtualBox
 - Unity
+- Visual Paradigm
 
 ## Design
 - Figma
@@ -33,3 +34,5 @@
   - Objective was to design an app that could scan and solve a Rubik's cube seamlessly
   - App could scan a Rubik's cube using Tensorflow Lite Object Detection Model and solved it via our logic in Java
   - Mainly contributed to app development, logic and team administration
+
+ Currently learning the Spring framework
