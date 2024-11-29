@@ -12,6 +12,7 @@
 - MySQL
 - SQLite
 - HTML & CSS
+- XML
 - JavaScript
 - Unix
 - Git
