@@ -2,7 +2,7 @@
 - Graduate computer science student from the University of Nottingham. - Looking for tech experiences!
 - I enjoy working with back-end technologies, my favourite projects used Java and SQL, and hardware.
 - Enthusiastic for [Gunpla](https://en.wikipedia.org/wiki/Gunpla) and reading.
-- Currently learning Spring Boot for a Gunpla website to track my builds, calculate build costs and display a gallery.
+- Currently planning a Gunpla website to track my builds, calculate build costs and display a gallery.
 
 &emsp;
 
