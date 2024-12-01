@@ -2,7 +2,6 @@
 - Graduate computer science student from the University of Nottingham. - Looking for tech experiences!
 - I enjoy working with back-end technologies, my favourite projects used Java and SQL, and hardware.
 - Enthusiastic for [Gunpla](https://en.wikipedia.org/wiki/Gunpla) and reading.
-- Currently learning new tech.
 
 &emsp;
 
