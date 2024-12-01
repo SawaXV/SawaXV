@@ -19,7 +19,6 @@
 - GitLab
 - VirtualBox
 - Unity
-- Visual Paradigm
 
 ## Design tools
 - Figma
@@ -41,9 +40,12 @@ Listed are some sizeable projects I worked on, in-between these would be smaller
 #### Web development
   - Chatroom website
   - Movie database
+#### Data analysis
+  - College demographic
+  - Mock relief case-study
 #### Game development
   - 3D Unity survival horror project
-  - Multiple Roblox projects (2021)
+  - Multiple Roblox projects
 #### CI/CD 
   - GitLab
 
