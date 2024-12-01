@@ -40,7 +40,7 @@ Section includes group projects that had a large deliverable.
 #### R Mock Relief Case-Study (2024)
   - Originally three member group project, reduced to two.
   - Objective was to create a report including a combination of interactive and non-interactive visuals to discuss our findings of how we could potentially relieve a fictional location after a natural disaster.
-  - Visuals were created with a combination of R and the Observable notebook which uses JavaScript, with a range of graphs e.g. bar charts, line graphs, scatter plots.
+  - Visuals were created in R and the Observable notebook which uses JavaScript, with a range of graphs e.g. bar charts, line graphs, scatter plots.
   - Partner and I would meet two times a week to discuss our approaches and analysis of the data, while distributing our work between the visuals and the written report.
 #### Quality Assurance Report (2024)
   - Six member group project
