@@ -2,7 +2,7 @@
 - Graduate computer science student from the University of Nottingham. - Looking for tech experiences!
 - I enjoy working with back-end technologies, my favourite projects used Java and SQL, and hardware.
 - Enthusiastic for [Gunpla](https://en.wikipedia.org/wiki/Gunpla) and reading.
-- Currently planning a Gunpla website to track my builds, calculate build costs and display a gallery.
+- Currently learning new tech.
 
 &emsp;
 
@@ -34,7 +34,7 @@
 
 &emsp;
 
-# Group Projects
+# GROUP PROJECTS
 Section includes group projects that had a large deliverable.
 
 #### R Mock Relief Case-Study (2024)
