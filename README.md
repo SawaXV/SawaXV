@@ -1,9 +1,3 @@
-# ABOUT ME
-- Graduate computer science student from the University of Nottingham. - Looking for tech experiences!
-- I enjoy working with back-end technologies, my favourite projects used Java and SQL, and hardware.
-
-&emsp;
-
 # TOOLS
 #### Languages
 <img src="https://static-00.iconduck.com/assets.00/java-icon-2048x2048-3pfathb3.png" alt="Java" style="width:50px;"/> &nbsp; 
